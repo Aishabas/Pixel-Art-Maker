@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+  }
+
+  h1 {
+    font-family: 'Keania One', cursive;
+    font-size: 50px;
+    margin: 0.2em;
+  }
+
+  h2 {
+    margin: 1em;
+    font-family: 'Roboto', sans-serif;
+
+  }
+
+  table,
+  tr,
+  td {
+    border: 1xp solid black;
+  }
+
+  table {
+    border-collapse: collapse;
+    margin: auto;
+
+  }
+
+ form {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    margin: 0.2em;
+}
